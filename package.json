@@ -1,0 +1,8 @@
+{
+	"name": "windowMGMT",
+	"version": "0.0.1",
+	"description": "Controlling Windows using LeapJS",
+	"dependencies": {
+		"leapjs": "0.4.3"
+	}
+}

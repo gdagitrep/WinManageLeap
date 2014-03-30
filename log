@@ -1,0 +1,372 @@
+dimensions  1280x800  go right  2560 XY  1283 52
+dimensions  1280x800  go left  0  XY  3 52
+dimensions  1280x800  go right  1280 XY  0 24
+dimensions  1280x800  move w right  1283 XY  3 52
+dimensions  1280x800  move w left  4 XY  1284 52
+dimensions  1280x800  go left  0  XY  5 52
+dimensions  1280x800  go right  1280 XY  0 24
+dimensions  1280x800  move w right  1285 XY  5 52
+dimensions  1280x800  go right  2560 XY  1286 52
+dimensions  1280x800  go left  0  XY  6 52
+dimensions  1280x800  go right  1280 XY  0 24
+dimensions  1280x800  go right  2560 XY  6 52
+dimensions  1280x800  go left  1280  XY  0 24
+dimensions  1280x800  go left  0  XY  6 52
+dimensions  1280x800  go right  1280 XY  0 24
+dimensions  1280x800  go left  0  XY  6 52
+dimensions  1280x800  go right  1280 XY  0 24
+dimensions  1280x800  move w left  -1274 XY  6 52
+dimensions  1280x800  go left  0  XY  52
+dimensions  1280x800  go right  1280 XY  8 52
+dimensions  1280x800  go left  0  XY  0 0
+dimensions  1280x800  go right  1280 XY  8 52
+dimensions  1280x800  move w left  -1280 XY  0 0
+dimensions  1280x800  go left  0  XY  0
+dimensions  1280x800  move w right  1288 XY  8 52
+dimensions  1280x800  go right  1280 XY  8 52
+dimensions  1280x800  move w left  -1280 XY  52
+dimensions  1280x800  go left  0  XY  52
+dimensions  1280x800  move w right  1288 XY  8 52
+dimensions  1280x800  go right  1280 XY  1289 52
+dimensions  1280x800  move w left  -1271 XY  9 52
+dimensions  1280x800  go right  2560 XY  52
+dimensions  1280x800  move w left  -1280 XY  52
+dimensions  1280x800  go left  1280  XY  52
+dimensions  1280x800  move w right  1281 XY  1 52
+dimensions  1280x800  go right  2560 XY  1282 52
+dimensions  1280x800  go right  2560 XY  2 52
+dimensions  1280x800  move w right  1282 XY  2 52
+dimensions  1280x800  move w right  2563 XY  1283 52
+dimensions  1280x800  go right  3840 XY  2564 52
+dimensions  1280x800  move w left  4 XY  1284 52
+dimensions  1280x800  go right  5120 XY  5 52
+dimensions  1280x800  move w left  -1280 XY  52
+dimensions  1280x800  go left  3840  XY  52
+dimensions  1280x800  move w right  1281 XY  1 52
+dimensions  1280x800  go right  5120 XY  1282 52
+dimensions  1280x800  move w left  -1278 XY  2 52
+dimensions  1280x800  go left  3840  XY  52
+dimensions  1280x800  move w left  -1277 XY  3 52
+dimensions  1280x800  go left  2560  XY  3 52
+dimensions  1280x800  move w right  1280 XY  52
+dimensions  1280x800  go right  3840 XY  1281 52
+dimensions  1280x800  move w right  2561 XY  1281 52
+dimensions  1280x800  go left  2560  XY  2562 52
+dimensions  1280x800  move w left  1282 XY  2562 52
+dimensions  1280x800  go left  1280  XY  1283 52
+dimensions  1280x800  move w left  -1277 XY  3 52
+dimensions  1280x800  go left  0  XY  52
+dimensions  1280x800  go right  1280 XY  8 52
+dimensions  1280x800  move w left  -1280 XY  52
+dimensions  1280x800  go left  0  XY  52
+dimensions  1280x800  move w right  1288 XY  8 52
+dimensions  1280x800  go right  1280 XY  1289 52
+dimensions  1280x800  move w left  -1271 XY  9 52
+dimensions  1280x800  go right  2560 XY  52
+dimensions  1280x800  move w left  -1280 XY  52
+dimensions  1280x800  go left  1280  XY  52
+dimensions  1280x800  move w right  1281 XY  1 52
+dimensions  1280x800  go right  2560 XY  1282 52
+dimensions  1280x800  go right  2560 XY  2 52
+dimensions  1280x800  move w right  1282 XY  2 52
+dimensions  1280x800  move w right  2563 XY  1283 52
+dimensions  1280x800  go right  3840 XY  1283 52
+dimensions  1280x800  move w left  1284 XY  2564 52
+dimensions  1280x800  go right  5120 XY  1284 52
+dimensions  1280x800  move w left  -1275 XY  5 52
+dimensions  1280x800  go left  3840  XY  52
+dimensions  1280x800  move w right  1286 XY  6 52
+dimensions  1280x800  go right  5120 XY  1287 52
+dimensions  1280x800  move w left  -1273 XY  7 52
+dimensions  1280x800  go left  3840  XY  52
+dimensions  1280x800  move w left  -1272 XY  8 52
+dimensions  1280x800  go left  2560  XY  52
+dimensions  1280x800  move w right  1289 XY  9 52
+dimensions  1280x800  go right  3840 XY  1290 52
+dimensions  1280x800  move w right  1290 XY  10 52
+dimensions  1280x800  go left  2560  XY  1291 52
+dimensions  1280x800  move w left  1291 XY  2571 52
+dimensions  1280x800  go left  1280  XY  1292 52
+dimensions  1280x800  move w left  -1268 XY  12 52
+dimensions  1280x800  go left  2560  XY  52
+dimensions  1280x800  go right  3840 XY  13 52
+dimensions  1280x800  move w left  -1280 XY  52
+dimensions  1280x800  go left  2560  XY  52
+dimensions  1280x800  move w right  1281 XY  1 52
+dimensions  1280x800  go right  3840 XY  1282 52
+dimensions  1280x800  move w left  -1278 XY  2 52
+dimensions  1280x800  go right  5120 XY  52
+dimensions  1280x800  move w left  -1280 XY  52
+dimensions  1280x800  go left  3840  XY  52
+dimensions  1280x800  move w right  1281 XY  1 52
+dimensions  1280x800  go right  5120 XY  1282 52
+dimensions  1280x800  go right  5120 XY  2 52
+dimensions  1280x800  move w right  1282 XY  2 52
+dimensions  1280x800  move w right  1282 XY  2 52
+dimensions  1280x800  go right  6400 XY  1283 52
+dimensions  1280x800  move w left  -1277 XY  3 52
+dimensions  1280x800  move w left  -1280 XY  52
+dimensions  1280x800  go left  5120  XY  52
+dimensions  1280x800  go right  6400 XY  1 52
+dimensions  1280x800  move w left  -1280 XY  52
+dimensions  1280x800  go left  5120  XY  52
+dimensions  1280x800  move w left  -1279 XY  1 52
+dimensions  1280x800  go left  3840  XY  52
+dimensions  1280x800  move w right  1282 XY  2 52
+dimensions  1280x800  go right  5120 XY  2 52
+dimensions  1280x800  move w right  1283 XY  3 52
+dimensions  1280x800  go left  3840  XY  1284 52
+dimensions  1280x800  move w left  1284 XY  2564 52
+dimensions  1280x800  go left  2560  XY  1285 52
+dimensions  1280x800  move w left  -1275 XY  5 52
+dimensions  1280x800  go left  3840  XY  52
+dimensions  1280x800  go right  5120 XY  6 52
+dimensions  1280x800  move w left  -1280 XY  52
+dimensions  1280x800  go left  3840  XY  52
+dimensions  1280x800  move w right  1281 XY  1 52
+dimensions  1280x800  go right  5120 XY  1282 52
+dimensions  1280x800  move w left  -1278 XY  2 52
+dimensions  1280x800  go right  6400 XY  2 52
+dimensions  1280x800  move w left  -1280 XY  52
+dimensions  1280x800  go left  5120  XY  52
+dimensions  1280x800  move w right  1281 XY  1 52
+dimensions  1280x800  go right  6400 XY  1282 52
+dimensions  1280x800  move w left  -1278 XY  2 52
+dimensions  1280x800  move w left  -1280 XY  52
+dimensions  1280x800  go left  5120  XY  52
+dimensions  1280x800  go right  6400 XY  1 52
+dimensions  1280x800  move w left  -1279 XY  1 52
+dimensions  1280x800  go left  5120  XY  52
+dimensions  1280x800  move w left  -1278 XY  2 52
+dimensions  1280x800  go left  3840  XY  52
+dimensions  1280x800  move w right  1283 XY  3 52
+dimensions  1280x800  go right  5120 XY  3 52
+dimensions  1280x800  move w right  1284 XY  4 52
+dimensions  1280x800  go left  3840  XY  1285 52
+dimensions  1280x800  move w left  5 XY  1285 52
+dimensions  1280x800  go left  2560  XY  2565 52
+dimensions  1280x800  move w left  -1274 XY  6 52
+dimensions  1280x800  go left  2560  XY  52
+dimensions  1280x800  go right  3840 XY  7 52
+dimensions  1280x800  move w left  -1280 XY  52
+dimensions  1280x800  go left  2560  XY  52
+dimensions  1280x800  move w right  1281 XY  1 52
+dimensions  1280x800  go right  3840 XY  1282 52
+dimensions  1280x800  move w left  -1278 XY  2 52
+dimensions  1280x800  go right  5120 XY  52
+dimensions  1280x800  move w left  -1280 XY  52
+dimensions  1280x800  go left  3840  XY  52
+dimensions  1280x800  move w right  1280 XY  52
+dimensions  1280x800  go right  5120 XY  1 52
+dimensions  1280x800  go right  5120 XY  1281 52
+dimensions  1280x800  move w right  1281 XY  1 52
+dimensions  1280x800  move w right  2562 XY  1282 52
+dimensions  1280x800  go right  6400 XY  2560 52
+dimensions  1280x800  move w left  0 XY  1280 52
+dimensions  1280x800  go left  5120  XY  1 52
+dimensions  1280x800  move w left  1 XY  1281 52
+dimensions  1280x800  go left  3840  XY  1281 52
+dimensions  1280x800  move w right  1282 XY  2 52
+dimensions  1280x800  go right  5120 XY  1282 52
+dimensions  1280x800  move w left  3 XY  1283 52
+dimensions  1280x800  go left  3840  XY  3 52
+dimensions  1280x800  go left  3840  XY  4 52
+dimensions  1280x800  move w right  2564 XY  1284 52
+dimensions  1280x800  go right  5120 XY  1284 52
+dimensions  1280x800  move w right  3845 XY  2565 52
+dimensions  1280x800  go left  3840  XY  2560 52
+dimensions  1280x800  move w left  2560 XY  3840 52
+dimensions  1280x800  go left  2560  XY  2561 52
+dimensions  1280x800  move w right  5121 XY  3841 52
+dimensions  1280x800  go right  3840 XY  5120 52
+dimensions  1280x800  move w left  2560 XY  3840 52
+dimensions  1280x800  go left  2560  XY  2561 52
+dimensions  1280x800  go right  3840 XY  3841 52
+dimensions  1280x800  move w left  1281 XY  2561 52
+dimensions  1280x800  go left  2560  XY  1282 52
+dimensions  1280x800  move w right  3842 XY  2562 52
+dimensions  1280x800  go right  3840 XY  3843 52
+dimensions  1280x800  move w left  1283 XY  2563 52
+dimensions  1280x800  go left  2560  XY  1284 52
+dimensions  1280x800  go left  2560  XY  1284 52
+dimensions  1280x800  move w right  3844 XY  2564 52
+dimensions  1280x800  go right  3840 XY  3845 52
+dimensions  1280x800  move w right  3845 XY  2565 52
+dimensions  1280x800  go left  2560  XY  3840 52
+dimensions  1280x800  move w left  3840 XY  5120 52
+dimensions  1280x800  go left  1280  XY  3841 52
+dimensions  1280x800  move w left  -1279 XY  1 52
+dimensions  1280x800  go left  5120  XY  52
+dimensions  1280x800  go right  6400 XY  2 52
+dimensions  1280x800  move w left  -1280 XY  52
+dimensions  1280x800  go left  5120  XY  52
+dimensions  1280x800  go right  6400 XY  1 52
+dimensions  1280x800  move w left  -1280 XY  52
+dimensions  1280x800  move w left  -1280 XY  52
+dimensions  1280x800  go left  5120  XY  52
+dimensions  1280x800  go right  6400 XY  1 52
+dimensions  1280x800  move w left  -1280 XY  52
+dimensions  1280x800  go left  5120  XY  52
+dimensions  1280x800  move w left  -1279 XY  1 52
+dimensions  1280x800  go left  3840  XY  52
+dimensions  1280x800  move w right  1282 XY  2 52
+dimensions  1280x800  go right  5120 XY  1283 52
+dimensions  1280x800  move w left  3 XY  1283 52
+dimensions  1280x800  go left  3840  XY  3 52
+dimensions  1280x800  go left  3840  XY  1284 52
+dimensions  1280x800  move w right  2564 XY  1284 52
+dimensions  1280x800  go right  5120 XY  1284 52
+dimensions  1280x800  move w right  3845 XY  2565 52
+dimensions  1280x800  go left  3840  XY  1285 52
+dimensions  1280x800  move w left  1280 XY  2560 52
+dimensions  1280x800  go left  2560  XY  3840 52
+dimensions  1280x800  move w right  2561 XY  1281 52
+dimensions  1280x800  go right  3840 XY  2562 52
+dimensions  1280x800  move w left  2 XY  1282 52
+dimensions  1280x800  go left  2560  XY  3 52
+dimensions  1280x800  go right  5120 XY  1283 52
+dimensions  1280x800  move w left  -1280 XY  52
+dimensions  1280x800  go left  3840  XY  52
+dimensions  1280x800  move w right  1281 XY  1 52
+dimensions  1280x800  go right  5120 XY  1 52
+dimensions  1280x800  move w left  2 XY  1282 52
+dimensions  1280x800  go left  3840  XY  2 52
+dimensions  1280x800  go left  3840  XY  3 52
+dimensions  1280x800  move w right  2563 XY  1283 52
+dimensions  1280x800  go right  5120 XY  2564 52
+dimensions  1280x800  move w right  2564 XY  1284 52
+dimensions  1280x800  go left  3840  XY  1284 52
+dimensions  1280x800  move w left  1280 XY  2560 52
+dimensions  1280x800  go left  2560  XY  3840 52
+dimensions  1280x800  move w left  -1279 XY  1 52
+dimensions  1280x800  go left  3840  XY  52
+dimensions  1280x800  go right  5120 XY  2 52
+dimensions  1280x800  move w left  -1278 XY  2 52
+dimensions  1280x800  go left  2560  XY  52
+dimensions  1280x800  move w right  2563 XY  1283 52
+dimensions  1280x800  go right  3840 XY  2564 52
+dimensions  1280x800  move w left  4 XY  1284 52
+dimensions  1280x800  go right  5120 XY  5 52
+dimensions  1280x800  move w left  -1280 XY  52
+dimensions  1280x800  go left  3840  XY  52
+dimensions  1280x800  move w right  1281 XY  1 52
+dimensions  1280x800  go right  5120 XY  1282 52
+dimensions  1280x800  go right  5120 XY  2 52
+dimensions  1280x800  move w right  1282 XY  2 52
+dimensions  1280x800  move w right  2563 XY  1283 52
+dimensions  1280x800  go right  6400 XY  2560 52
+dimensions  1280x800  move w left  0 XY  1280 52
+dimensions  1280x800  go left  5120  XY  1 52
+dimensions  1280x800  move w left  1 XY  1281 52
+dimensions  1280x800  go left  3840  XY  1281 52
+dimensions  1280x800  move w right  1282 XY  2 52
+dimensions  1280x800  go right  5120 XY  1282 52
+dimensions  1280x800  move w left  -1277 XY  3 52
+dimensions  1280x800  go left  3840  XY  52
+dimensions  1280x800  go left  2560  XY  4 52
+dimensions  1280x800  move w right  2564 XY  1284 52
+dimensions  1280x800  go right  3840 XY  2565 52
+dimensions  1280x800  move w right  2565 XY  1285 52
+dimensions  1280x800  go left  2560  XY  2566 52
+dimensions  1280x800  move w left  2566 XY  3846 52
+dimensions  1280x800  go left  1280  XY  2567 52
+dimensions  1280x800  move w right  5127 XY  3847 52
+dimensions  1280x800  go right  2560 XY  5128 52
+dimensions  1280x800  move w left  2568 XY  3848 52
+dimensions  1280x800  go left  1280  XY  2569 52
+dimensions  1280x800  go right  2560 XY  3849 52
+dimensions  1280x800  move w left  1289 XY  2569 52
+dimensions  1280x800  go left  1280  XY  1290 52
+dimensions  1280x800  move w right  3850 XY  2570 52
+dimensions  1280x800  go right  2560 XY  3851 52
+dimensions  1280x800  move w left  1291 XY  2571 52
+dimensions  1280x800  go left  1280  XY  1292 52
+dimensions  1280x800  go left  1280  XY  1292 52
+dimensions  1280x800  move w right  3852 XY  2572 52
+dimensions  1280x800  go right  2560 XY  2572 52
+dimensions  1280x800  move w right  5133 XY  3853 52
+dimensions  1280x800  go left  1280  XY  5120 52
+dimensions  1280x800  move w left  5120 XY  6400 52
+dimensions  1280x800  go left  0  XY  5121 52
+dimensions  1280x800  move w left  -1279 XY  1 52
+dimensions  1280x800  go left  5120  XY  52
+dimensions  1280x800  go right  6400 XY  2 52
+dimensions  1280x800  move w left  -1097 XY  183 142
+dimensions  1280x800  go left  5120  XY  142
+dimensions  1280x800  move w right  1282 XY  2 52
+dimensions  1280x800  go right  6400 XY  1283 52
+dimensions  1280x800  move w left  -1277 XY  3 52
+dimensions  1280x800  move w left  -1280 XY  52
+dimensions  1280x800  go left  5120  XY  52
+dimensions  1280x800  move w right  1281 XY  1 52
+dimensions  1280x800  go right  6400 XY  1282 52
+dimensions  1280x800  move w left  -1278 XY  2 52
+dimensions  1280x800  go left  5120  XY  52
+dimensions  1280x800  go right  6400 XY  3 52
+dimensions  1280x800  move w left  -1280 XY  0 0
+dimensions  1280x800  go left  5120  XY  0
+dimensions  1280x800  move w right  1283 XY  3 52
+dimensions  1280x800  go right  6400 XY  184 142
+dimensions  1280x800  move w left  -1276 XY  4 52
+dimensions  1280x800  go left  5120  XY  52
+dimensions  1280x800  go left  3840  XY  184 142
+dimensions  1280x800  move w right  1419 XY  139 148
+dimensions  1280x800  go right  5120 XY  1420 148
+dimensions  1280x800  move w right  1464 XY  184 142
+dimensions  1280x800  go left  3840  XY  5 52
+dimensions  1280x800  move w left  -5 XY  1275 119
+dimensions  1280x800  go left  2560  XY  119
+dimensions  1280x800  move w right  2556 XY  1276 119
+dimensions  1280x800  go right  3840 XY  2557 119
+dimensions  1280x800  move w left  -1279 XY  1 52
+dimensions  1280x800  go left  1280  XY  1 52
+dimensions  1280x800  go right  3840 XY  1 52
+dimensions  1280x800  move w left  -3 XY  1277 119
+dimensions  1280x800  go left  2560  XY  119
+dimensions  1280x800  move w right  1280 XY  119
+dimensions  1280x800  go right  6400 XY  5 52
+dimensions  1280x800  move w left  -1095 XY  185 142
+dimensions  1280x800  go left  5120  XY  142
+---------------------
+
+dimensions  1280x800  move w right  1288 XY  8 52
+dimensions  1280x800  go right  1280 XY  1289 52
+dimensions  1280x800  move w left  -1280 XY  0 24
+dimensions  1280x800  move w right  1280 XY  24
+dimensions  1280x800  go left  0  XY  9 52
+dimensions  1280x800  go right  1280 XY  0 24
+dimensions  1280x800  go right  2560 XY  9 52
+dimensions  1280x800  move w left  -1280 XY  0 24
+dimensions  1280x800  move w right  1280 XY  24
+dimensions  1280x800  move w right  2560 XY  1280 24
+dimensions  1280x800  move w left  1280 XY  2560 24
+dimensions  1280x800  move w right  2560 XY  1280 24
+dimensions  1280x800  move w left  1280 XY  2560 24
+dimensions  1280x800  move w left  0 XY  1280 24
+dimensions  1280x800  move w right  1280 XY  0 24
+dimensions  1280x800  move w left  0 XY  1280 24
+dimensions  1280x800  go left  1280  XY  0 24
+dimensions  1280x800  go left  0  XY  9 52
+dimensions  1280x800  go right  1280 XY  0 24
+dimensions  1280x800  move w right  1289 XY  9 52
+dimensions  1280x800  go right  2560 XY  1290 52
+dimensions  1280x800  move w left  -1280 XY  0 24
+dimensions  1280x800  move w right  1280 XY  24
+dimensions  1280x800  go right  3840 XY  1280 24
+dimensions  1280x800  go left  2560  XY  0 24
+dimensions  1280x800  move w right  1290 XY  10 52
+dimensions  1280x800  go right  3840 XY  1291 52
+dimensions  1280x800  go left  2560  XY  0 24
+dimensions  1280x800  go right  3840 XY  76 159
+dimensions  1280x800  go right  5120 XY  0 24
+dimensions  1280x800  go right  6400 XY  0 0
+dimensions  1280x800  move w left  -1280 XY  0 0
+dimensions  1280x800  go right  5120 XY  0 24
+dimensions  1280x800  move w right  1280 XY  24
+dimensions  1280x800  move w left  0 XY  1280 24
+dimensions  1280x800  move w left  -1280 XY  0 24
+dimensions  1280x800  move w right  1280 XY  0 24
+dimensions  1280x800  move w left  -1204 XY  76 159
+dimensions  1280x800  move w right  1280 XY  0 24
+dimensions  1280x800  move w left  -1280 XY  0 24
+dimensions  1280x800  move w left  -1280 XY  0 24
